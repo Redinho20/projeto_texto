@@ -1,2 +1,3 @@
-vim redinho.txt wwqnkakadadwqd
+ola de novo2 :wq
+
 
